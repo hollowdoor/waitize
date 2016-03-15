@@ -1,0 +1,30 @@
+{
+  "name": "waitize",
+  "version": "1.0.1",
+  "description": "Make promises from events",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise",
+    "events"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^3.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hollowdoor/waitize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hollowdoor/waitize/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/waitize#readme"
+}
