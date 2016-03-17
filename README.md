@@ -12,7 +12,7 @@ Examples
 A working example:
 
 ```javascript
-var waitize = require('../index'),
+var waitize = require('waitize'),
     wait = waitize.wait,
     spawn = require('child_process').spawn;
 
@@ -45,7 +45,7 @@ waiting.then(function(){
 A funkier example that actually works:
 
 ```javascript
-var waitize = require('../index'),
+var waitize = require('waitize'),
     wait = waitize.wait,
     spawn = require('child_process').spawn;
 
